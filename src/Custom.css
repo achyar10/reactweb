@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.logo {
+    max-width:120px; 
+}
+
+.nav-apps {
+  background-color: #091d32;
+  border-color: #091d32;
+}
